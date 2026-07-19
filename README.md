@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Binary Search
 |  |
 | ------- |
