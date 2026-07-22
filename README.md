@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0189-rotate-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -44,4 +45,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
