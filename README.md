@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0169-majority-element) |
+| [3536-maximum-product-of-two-digits](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
