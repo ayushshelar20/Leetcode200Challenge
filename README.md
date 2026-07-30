@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
