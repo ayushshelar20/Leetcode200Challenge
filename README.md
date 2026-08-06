@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
