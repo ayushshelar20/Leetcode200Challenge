@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0058-length-of-last-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
