@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0136-single-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0628-maximum-product-of-three-numbers) |
