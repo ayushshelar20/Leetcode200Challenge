@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0234-palindrome-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
