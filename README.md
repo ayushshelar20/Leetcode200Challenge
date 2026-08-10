@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -125,9 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0141-linked-list-cycle) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
