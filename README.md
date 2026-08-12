@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3731-find-missing-elements) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0169-majority-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3731-find-missing-elements) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
