@@ -154,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
