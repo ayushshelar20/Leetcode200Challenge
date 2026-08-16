@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0189-rotate-array) |
