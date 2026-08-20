@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3731-find-missing-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
