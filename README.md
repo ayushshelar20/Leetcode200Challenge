@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0053-maximum-subarray) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0141-linked-list-cycle) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushshelar20/Leetcode200Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
